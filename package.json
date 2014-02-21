@@ -1,0 +1,17 @@
+{
+  "name": "bowery",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "mocha": "~1.13.0",
+    "hjs": "0.0.6",
+    "aws-sdk": "~1.8.1",
+    "juice": "~0.4.0",
+    "validator": "~1.5.1",
+    "knox": "~0.8.6",
+    "kew": "~0.3.4"
+  }
+}
