@@ -1,7 +1,7 @@
 {
-  "name": "bowery",
+  "author": "Bowery, Inc.",
+  "name": "e-mail",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "test": "make test"
   },
